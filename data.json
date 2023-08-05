@@ -1,0 +1,46 @@
+[
+    {
+        "firstName": "Patrick",
+        "lastName": "Layman",
+        "sex": "Male",
+        "height": "199cm",
+        "ethnicity": "White",
+        "birthday": "04/10/2000",
+        "maritalStatus": "Engaged",
+        "jobTitle": "Software Developer",
+        "salary": "To be determined"
+    },
+    {
+        "firstName": "Amber",
+        "lastName": "Hughes",
+        "sex": "Female",
+        "height": "167cm",
+        "ethnicity": "White",
+        "birthday": "07/19/2001",
+        "maritalStatus": "Engaged",
+        "jobTitle": "Esthetician",
+        "salary": "40000"  
+    },
+    {
+        "firstName": "Kimberley",
+        "lastName": "Mulrooney",
+        "sex": "Female",
+        "height": "167cm",
+        "ethnicity": "White",
+        "birthday": "03/13/1978",
+        "maritalStatus": "Married",
+        "jobTitle": "Management",
+        "salary": "55000"
+    },
+    {
+        "firstName": "Raymond",
+        "lastName": "Mulrooney",
+        "sex": "Male",
+        "height": "178cm",
+        "ethnicity": "White",
+        "birthday": "06/12/1976",
+        "maritalStatus": "Married",
+        "jobTitle": "Heavy Duty Mechanic",
+        "salary": "75000"
+    }
+]
